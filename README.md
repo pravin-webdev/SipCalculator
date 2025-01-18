@@ -19,5 +19,5 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sip-calculator.git
+   git clone https://github.com/pravin-webdev/sip-calculator.git
    cd sip-calculator
