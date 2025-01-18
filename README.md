@@ -13,19 +13,6 @@ A **React Native SIP (Systematic Investment Plan) Calculator** designed with App
 
 ---
 
-## Screenshots
-
-### 1. Home Screen
-![Home Screen](./assets/)
-
-### 2. Input Fields
-![Input Fields](./assets/images/input-fields.png)
-
-### 3. Results Screen
-![Results Screen](.\assets\screen1.jpg)
-
----
-
 ## Installation
 
 To run this project locally:
